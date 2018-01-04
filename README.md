@@ -1,2 +1,2 @@
 # project
-spark, machine learning
+Machine learning
